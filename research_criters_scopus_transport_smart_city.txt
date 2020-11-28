@@ -1,0 +1,4 @@
+Critères de recherche sur Scopus :
+Number of Documents  826
+( TITLE-ABS-KEY ( "smart city" )  OR  TITLE-ABS-KEY ( "smart cities" )  AND  TITLE-ABS-KEY ( transport* )  AND  TITLE-ABS-KEY ( mobilit* )  OR  TITLE-ABS-KEY ( pioneer* ) )  AND  ( LIMIT-TO ( LANGUAGE ,  "English" )  OR  LIMIT-TO ( LANGUAGE ,  "Spanish" )  OR  LIMIT-TO ( LANGUAGE ,  "French" ) )  AND  ( LIMIT-TO ( PUBSTAGE ,  "final" ) )  AND  ( EXCLUDE ( SRCTYPE ,  "d" ) )  AND  ( LIMIT-TO ( DOCTYPE ,  "cp" )  OR  LIMIT-TO ( DOCTYPE ,  "ar" )  OR  LIMIT-TO ( DOCTYPE ,  "ch" )  OR  LIMIT-TO ( DOCTYPE ,  "cr" )  OR  LIMIT-TO ( DOCTYPE ,  "re" )  OR  LIMIT-TO ( DOCTYPE ,  "bk" ) ) 
+
